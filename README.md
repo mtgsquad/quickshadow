@@ -16,7 +16,7 @@ https://cdn.mtgsquad-dev.com/quickshadow.js
 Just Add The Class To Whatever You Want The Shadows To Be On: `quickshadow`!
 
 ## Configuration
-```
+```js
 import { quickshadow } from 'quickshadow';
 
 quickshadow({
