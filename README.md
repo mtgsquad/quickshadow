@@ -9,7 +9,7 @@ npm install quickshadow --save
 
 If you don't wanna use the NPM package, just use the CDN version: 
 ```bash
-https://cdn.mtgsquad-dev.com/quickshadow.js
+https://cdn.molai.dev/quickshadow.js
 ```
 
 ## Setup
